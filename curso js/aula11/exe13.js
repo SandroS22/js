@@ -15,6 +15,6 @@ switch(dia){
         console.log('Quarta-feira')
         break
     default:
-        console.log('[ERRO] Dia inválido')
+        console.log('[ERRO] Dia inválido!')
         break
 }
